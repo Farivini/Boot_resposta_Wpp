@@ -1,0 +1,13 @@
+Nesse Boot simples, da pra ver o tabalhar da Linguagem Python para fazer a integração.
+
+Usuario envia uma mensagem via whatsapp para um numero gerenciado pelo twilio (aqui pode ser qualquer um que conheça)
+
+NGROK  recebe essa mensagem mas ele funciona so com espelho .
+
+Ele  envia este request pra minha maquina que esta executando a aplicação .
+
+O Boot recebe essa mensagem verifica a palavra chave que você definiu e executa ou não a rota para o API.
+
+
+
+USEI PYCHARM -
